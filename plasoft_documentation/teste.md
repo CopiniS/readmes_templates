@@ -5,7 +5,7 @@
 ### method: `GET`
 
 ### Body / Query: 
-- **ativo**: `true`, `false` ou `todos`
+- **ativo**: 
   - `true`: Apenas os produtos ativos.
   - `false`: Apenas os produtos inativos.
   - `todos`: Todos os produtos, ativos e inativos.
